@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**I Am Mrical Singhal**
-
-Here are some ideas to get you started:
+**I am Mrical Singhal**
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - ♂ Pronouns (He/His/Him)
 - 📍 I live in Indore, India
 - 🔭 I’m a full-stack web developer with expertise in ReactJs, NodeJs, NextJs
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 😀 I will be happy if I could add value to your business 
 - ⚡ Fun fact: AR/VR and animation stuff excites me
 
-
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - My socials are listed below
   - Twitter at [mrical7](https://twitter.com/mrical7)
   - Instagram at [mrical_](https://instagram.com/mrical_)
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
   - Portfolio/Website at [Freelancer Portfolio](https://www.freelancer.in/u/CreativeMric)
   - Mail me at mynameismric@gmail.com regarding any work or if you just wanna connect
   
-  
+  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - My work experience
   - 🟢 Working on a side hustle project [Shopify Store](https://blaycked.vercel.app/)
   - 🔴 Worked as Fullstack React Developer on ChatApp for [Ashish S](https://www.linkedin.com/in/neversettle/)
