@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
+
 **mrical/mrical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ♂ Pronouns (He/His/Him)
+- 📍 I live in Indore, India
+- 🔭 I’m a full-stack web developer with expertise in ReactJs, NodeJs, NextJs
+- 🌱 I’m currently building Own shopify store
+- 😀 I will be happy if I could add value to your business 
+- ⚡ Fun fact: AR/VR and animation stuff excites me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- My socials are listed below
+  - Twitter at [mrical7](https://twitter.com/mrical7)
+  - Instagram at [mrical_](https://instagram.com/mrical_)
+  - LinkedIn at [mrical](https://www.linkedin.com/in/mrical)
+  - Portfolio/Website at [Freelancer Portfolio](https://www.freelancer.in/u/CreativeMric)
+  - Mail me at mynameismric@gmail.com regarding any work or if you just wanna connect
+  
+  
+- My work experience
+  - 🟢 Working on a side hustle project [Shopify Store](https://blaycked.vercel.app/)
+  - 🔴 Worked as Fullstack React Developer on ChatApp for [Ashish S](https://www.linkedin.com/in/neversettle/)
+  - 🔴 Worked as Frontend Software Developer on a ChatApp for [Kolla F](https://www.freelancer.in/u/kollafreelancer) through freelancer
