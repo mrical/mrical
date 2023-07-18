@@ -23,5 +23,6 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - My work experience
   - 🟢 Working on a side hustle project [Shopify Store](https://blaycked.vercel.app/)
+  - 🔴 Worked as Software engineer in [Swastika investmart](https://www.swastika.co.in/) on Webflow and AngularJs
   - 🔴 Worked as Fullstack React Developer on ChatApp for [Ashish S](https://www.linkedin.com/in/neversettle/)
   - 🔴 Worked as Frontend Software Developer on a ChatApp for [Kolla F](https://www.freelancer.in/u/kollafreelancer) through freelancer
