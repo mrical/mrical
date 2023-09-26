@@ -7,7 +7,7 @@
 - ♂ Pronouns (He/His/Him)
 - 📍 I live in Indore, India
 - 🔭 I’m a full-stack web developer with expertise in ReactJs, NodeJs, NextJs
-- 🌱 I’m currently building Own shopify store
+- 🌱 I’m currently building own SAAS product
 - 😀 I will be happy if I could add value to your business 
 - ⚡ Fun fact: AR/VR and animation stuff excites me
 
@@ -22,7 +22,8 @@
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - My work experience
-  - 🟢 Working on a side hustle project [Shopify Store](https://blaycked.vercel.app/)
+  - 🟢 Working on a AI SAAS product
+  - 🟢 Working on a side hustle project [Tech Agency](https://blaycked.com/)
   - 🔴 Worked as Software engineer in [Swastika investmart](https://www.swastika.co.in/) on Webflow and AngularJs
   - 🔴 Worked as Fullstack React Developer on ChatApp for [Ashish S](https://www.linkedin.com/in/neversettle/)
   - 🔴 Worked as Frontend Software Developer on a ChatApp for [Kolla F](https://www.freelancer.in/u/kollafreelancer) through freelancer
